@@ -1,1 +1,1 @@
-Here, UI.png file is user interface of the project.
+Here, user_Interface.png file is user interface of the project.
